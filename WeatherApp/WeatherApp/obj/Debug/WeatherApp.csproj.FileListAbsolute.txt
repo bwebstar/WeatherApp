@@ -1,0 +1,16 @@
+c:\users\bwebster\documents\visual studio 2015\Projects\WeatherApp\WeatherApp\WeatherApp\bin\Debug\WeatherApp.dll.config
+c:\users\bwebster\documents\visual studio 2015\Projects\WeatherApp\WeatherApp\WeatherApp\bin\Debug\WeatherApp.dll
+c:\users\bwebster\documents\visual studio 2015\Projects\WeatherApp\WeatherApp\WeatherApp\bin\Debug\WeatherApp.pdb
+c:\users\bwebster\documents\visual studio 2015\Projects\WeatherApp\WeatherApp\WeatherApp\bin\Debug\Newtonsoft.Json.dll
+c:\users\bwebster\documents\visual studio 2015\Projects\WeatherApp\WeatherApp\WeatherApp\bin\Debug\System.Net.Http.dll
+c:\users\bwebster\documents\visual studio 2015\Projects\WeatherApp\WeatherApp\WeatherApp\bin\Debug\System.Net.Http.Extensions.dll
+c:\users\bwebster\documents\visual studio 2015\Projects\WeatherApp\WeatherApp\WeatherApp\bin\Debug\System.Net.Http.Primitives.dll
+c:\users\bwebster\documents\visual studio 2015\Projects\WeatherApp\WeatherApp\WeatherApp\bin\Debug\Newtonsoft.Json.xml
+c:\users\bwebster\documents\visual studio 2015\Projects\WeatherApp\WeatherApp\WeatherApp\bin\Debug\System.Net.Http.xml
+c:\users\bwebster\documents\visual studio 2015\Projects\WeatherApp\WeatherApp\WeatherApp\bin\Debug\System.Net.Http.Extensions.xml
+c:\users\bwebster\documents\visual studio 2015\Projects\WeatherApp\WeatherApp\WeatherApp\bin\Debug\System.Net.Http.Primitives.xml
+c:\users\bwebster\documents\visual studio 2015\Projects\WeatherApp\WeatherApp\WeatherApp\obj\Debug\WeatherApp.csproj.App.config
+c:\users\bwebster\documents\visual studio 2015\Projects\WeatherApp\WeatherApp\WeatherApp\obj\Debug\WeatherApp.dll
+c:\users\bwebster\documents\visual studio 2015\Projects\WeatherApp\WeatherApp\WeatherApp\obj\Debug\WeatherApp.pdb
+C:\Users\bwebster\documents\visual studio 2015\Projects\WeatherApp\WeatherApp\WeatherApp\obj\Debug\WeatherApp.dll.mdb
+C:\Users\bwebster\documents\visual studio 2015\Projects\WeatherApp\WeatherApp\WeatherApp\bin\Debug\WeatherApp.dll.mdb
